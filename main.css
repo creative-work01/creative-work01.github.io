@@ -25,11 +25,9 @@ justify-content: center;
 
 }
 
-#logo{
-	margin: 34px 45 px; 
-}
 #logo img{
-    height: 100px;
+	mix-blend-mode:screen;
+    height: 80px;
     margin: 18px 88px;
 }
 #navbar{
